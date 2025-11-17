@@ -4,69 +4,7 @@ mycouriers is a PHP & MySQL-powered courier management platform that enables cus
 This project includes fully functional roles with separate dashboards for Admin, Staff, and Customer.
 
 📁 Project Structure
-MyCouriers/
-│
-├── admin/
-│   ├── branches.php
-│   ├── branches1.php
-│   ├── customer_details.php
-│   ├── customers.php
-│   ├── dashboard.php
-│   ├── delete_branch.php
-│   ├── delete_customer.php
-│   ├── delete_staff.php
-│   ├── manage_branch.php
-│   ├── manage_staff.php
-│   ├── navigation.php
-│   ├── parcel_details.php
-│   ├── parcels.php
-│   ├── reports.php
-│   ├── staff.php
-│   ├── update_status.php
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│
-├── customer/
-│   ├── book_parcel.php
-│   ├── cancel_parcel.php
-│   ├── dashboard.php
-│   ├── my_parcels.php
-│   ├── navigation.php
-│   ├── profile.php
-│
-├── includes/
-│   ├── auth_check.php
-│   ├── footer.php
-│   ├── header.php
-│
-├── staff/
-│   ├── book_parcel.php
-│   ├── dashboard.php
-│   ├── get_customer.php
-│   ├── navigation.php
-│   ├── parcels.php
-│   ├── profile.php
-│   ├── update_status.php
-│
-├── auth_check.php
-├── config.php
-├── forgot_password.php
-├── hash_customer_passwords.php
-├── hash_staff_passwords.php
-├── header.php
-├── index.php
-├── login.php
-├── logout.php
-├── register.php
-├── reset_admin.php
-├── test_pass.php
-├── track.php
-├── unauthorized.php
-│
-└── README.md
+    find project structure in Structure.txt file 
 
 🚀 Features
 👤 Customer Features
